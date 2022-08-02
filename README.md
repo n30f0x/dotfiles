@@ -5,6 +5,5 @@
 Various dotfiles for my development
 
 * .vimrc for both vim and nvim
-* .fish_config
-* .fish_greeting with custom arts
+* .fish_config files custom arts
 
