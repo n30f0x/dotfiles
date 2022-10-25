@@ -4,6 +4,7 @@
 
 Various dotfiles for my development
 
+* .config_lua for both nvim and lunarvim 
 * .vimrc for both vim and nvim
 * .fish_config files custom arts
 
