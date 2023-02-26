@@ -1,0 +1,51 @@
+# my theme
+
+fish_color_autosuggestion d7ffd7
+fish_color_cancel --reverse
+fish_color_command ffffff
+fish_color_comment d0d0d0
+fish_color_cwd 73D0FF
+fish_color_cwd_root red
+fish_color_end F29E74
+fish_color_error FF3333
+fish_color_escape 95E6CB
+fish_color_hg_added green
+fish_color_hg_clean green
+fish_color_hg_copied magenta
+fish_color_hg_deleted red
+fish_color_hg_dirty red
+fish_color_hg_modified yellow
+fish_color_hg_renamed magenta
+fish_color_hg_unmerged red
+fish_color_hg_untracked yellow
+fish_color_history_current --bold
+fish_color_host normal
+fish_color_host_remote
+fish_color_keyword
+fish_color_match F28779
+fish_color_normal CBCCC6
+fish_color_operator FFCC66
+fish_color_option
+fish_color_param d7ffaf
+fish_color_quote d75fff
+fish_color_redirection d7ff5f
+fish_color_search_match B7D690 ---background=444444 # --bold --italics 
+fish_color_selection white --bold --background=444444 # ffcc66  #same thing above
+fish_color_status red
+fish_color_user brgreen
+fish_color_valid_path --underline
+
+fish_pager_color_progress # brblue
+fish_pager_color_background # 3A3A3A
+fish_pager_color_completion normal
+fish_pager_color_description 'B3A06D' --background=444444
+fish_pager_color_prefix normal # B7D690  --bold --underline
+fish_pager_color_progress B7D690 --background=444444
+#fish_pager_color_secondary_background 3A3A3A
+#fish_pager_color_secondary_completion
+#fish_pager_color_secondary_description
+#fish_pager_color_secondary_prefix
+fish_pager_color_selected_background --background=444444
+fish_pager_color_selected_completion B7D690 # --bold
+fish_pager_color_selected_description  B7D690 --italic # --bold
+fish_pager_color_selected_prefix  brgreen --bold # 444444 --background=B7D690#
